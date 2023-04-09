@@ -1,0 +1,9 @@
+{
+  "name": "@arkhamcookie/prettier-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "ArkhamCookie",
+  "description": "My Prettier config.",
+  "main": "index.json",
+  "repository": "https://github.com/ArkhamCookie/prettier-config.git"
+}
