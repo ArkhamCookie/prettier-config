@@ -1,9 +1,18 @@
 {
   "name": "@arkhamcookie/prettier-config",
-  "version": "1.0.0",
-  "license": "MIT",
-  "author": "ArkhamCookie",
   "description": "My Prettier config.",
+  "version": "1.0.0",
   "main": "index.json",
-  "repository": "https://github.com/ArkhamCookie/prettier-config.git"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkhamCookie/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "ArkhamCookie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkhamCookie/prettier-config/issues"
+  },
+  "homepage": "https://arkhamcookie.com/dotfiles"
 }
