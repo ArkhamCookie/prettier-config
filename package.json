@@ -3,16 +3,26 @@
   "description": "My Prettier config.",
   "version": "1.0.0",
   "main": "index.json",
-  "scripts": {},
+  "scripts": {
+    "prettier:check": "prettier --check .",
+    "prettier:write": "prettier --write ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ArkhamCookie/prettier-config.git"
   },
   "keywords": [],
-  "author": "ArkhamCookie",
+  "author": {
+    "name": "ArkhamCookie",
+    "email": "npm@mail.theuntitledproject.dev",
+    "url": "https://theuntitledproject.dev"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ArkhamCookie/prettier-config/issues"
   },
-  "homepage": "https://arkhamcookie.com/dotfiles"
+  "homepage": "https://arkhamcookie.com/dotfiles",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
 }
