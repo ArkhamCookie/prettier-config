@@ -4,6 +4,7 @@
   "useTabs": true,
   "singleQuote": true,
   "endOfLine": "lf",
+  "semicolons": false,
 
   "overrides": [
     {
