@@ -9,10 +9,15 @@
 
   "overrides": [
     {
-      "files": ["*.json", "*.yml", "*.yaml"],
+      "files": ["*.csv", "*.json", "*.md", "*.toml", "*.yml", "*.yaml"],
       "options": {
         "tabWidth": 2
       }
-    }
+    },
+    {
+      "files": ["*.md"],
+      "options": {
+        "useTabs": false
+      }
   ]
 }
